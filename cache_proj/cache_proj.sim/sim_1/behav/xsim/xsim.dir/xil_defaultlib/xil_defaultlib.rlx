@@ -1,0 +1,9 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/vivado_project/20191/cache_proj/cache_proj.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/vivado_project/20191/cache_proj/cache_proj.srcs/sim_1/new/tb.sv,1578059724,systemVerilog,,,,tb;top_pm,,,,,,,,
+D:/vivado_project/20191/cache_proj/cache_proj.srcs/sources_1/new/cache.sv,1578211132,systemVerilog,,D:/vivado_project/20191/cache_proj/cache_proj.srcs/sources_1/new/memory.sv,,cache;cache_set,,,,,,,,
+D:/vivado_project/20191/cache_proj/cache_proj.srcs/sources_1/new/memory.sv,1578057723,systemVerilog,,D:/vivado_project/20191/cache_proj/cache_proj.srcs/sources_1/new/proc.sv,,memory,,,,,,,,
+D:/vivado_project/20191/cache_proj/cache_proj.srcs/sources_1/new/proc.sv,1578211891,systemVerilog,,D:/vivado_project/20191/cache_proj/cache_proj.srcs/sim_1/new/tb.sv,,proc,,,,,,,,
